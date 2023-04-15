@@ -51,3 +51,4 @@ If you have questions, feature requests or a bug you want to report, please clic
 ## ⚠️ License
 
 Copyright (c) 2023 schmaenjael
+For furher information refer to the [license](https://github.com/the-automata-hive/automata-hive-dotfiles/blob/master/LICENSE)
