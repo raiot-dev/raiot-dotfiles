@@ -1,4 +1,4 @@
-# 🧾 The Automata Hive .dotfiles
+# 🧾 The RAIOT .dotfiles
 
 [![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/the-automata-hive/automata-hive-dotfiles.git)
 ![GitHub](https://img.shields.io/github/license/the-automata-hive/automata-hive-dotfiles)
